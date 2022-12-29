@@ -1,14 +1,9 @@
-import { test } from "gray-matter";
 import Head from "next/head";
 import Link from "next/link";
 import Icon from "../components/Icon";
 import Layout from "../components/Layout";
 import Post from "../components/Post";
 import { getAllMarkdownFilesInDir, MarkdownFile } from "../lib/markdown";
-
-test;
-test;
-test;
 
 const Home = ({
   posts,

@@ -1,6 +1,6 @@
 ---
 title: useFontsLoaded
-date: Nov 14, 2019
+date: April 28, 2022 
 description: Check when font files has been loaded
 ---
 

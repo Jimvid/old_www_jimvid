@@ -1,6 +1,6 @@
 ---
 title: useWindowSize
-date: Nov 14, 2019
+date: Nov 9, 2021
 description: Returns the size of the window (on load and resize)
 ---
 

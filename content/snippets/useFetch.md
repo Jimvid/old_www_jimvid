@@ -1,6 +1,6 @@
 ---
 title: useFetch
-date: Nov 14, 2019
+date: May 14, 2022
 description: Simple hook to do simple fetching
 ---
 

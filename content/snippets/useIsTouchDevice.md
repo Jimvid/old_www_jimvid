@@ -1,6 +1,6 @@
 ---
 title: useIsTouchDevice
-date: Nov 14, 2019
+date: Jun 5, 2022
 description: Check if the user is on a touch device or not.
 ---
 

@@ -7,6 +7,7 @@ module.exports = {
   theme: {
     colors: {
       accent: "#7761FF",
+      white: "#ffffff",
       dark: "#161621",
       darker: "#0E0E12",
     },

@@ -1,6 +1,6 @@
 ---
 title: REM and EM - What is it anyway?
-date: Dec 29, 2018
+date: Seo 20, 2021
 description: Both rem and em are flexible and scalable units of measurement unlike the px unit. Both em and rem are translated by the browser into pixel values, depending on the font size you set for your design. The difference between...
 ---
 

@@ -34,12 +34,12 @@ export default function Header() {
         <ul className="flex gap-4 items-center">
           <li>
             <Link href="/posts">
-              <a>Posts</a>
+              <a className="text-white">Posts</a>
             </Link>
           </li>
           <li>
             <Link href="/snippets">
-              <a>Snippets</a>
+              <a className="text-white">Snippets</a>
             </Link>
           </li>
           <li>|</li>

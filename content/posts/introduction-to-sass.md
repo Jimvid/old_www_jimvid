@@ -1,6 +1,6 @@
 ---
 title: Introduction to Sass & SCSS
-date: Nov 14, 2019
+date: Feb 14, 2020
 description: Sass is a superset of CSS that makes it possible to use variables, nesting, operators, inheritance and mixing among other things to style your websites and apps...
 ---
 

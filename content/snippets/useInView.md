@@ -1,6 +1,6 @@
 ---
 title: useInView
-date: Nov 14, 2019
+date: April 22, 2022 
 description: Short hook to know when an element is in view or not
 ---
 
