@@ -19,7 +19,7 @@ const Home = ({
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <Layout>
-      <section className="text-3xl mb-separator">
+      <section className="text-2xl mb-separator">
         <h1 className="text-4xl font-bold mb-4">Hi, I&rsquo;m Victor</h1>
         <p className="text-base mb-4">
           I&rsquo;m a frontend developer and design enthusiast interested in
@@ -53,14 +53,14 @@ const Home = ({
       <section className="mb-separator font-bold">
         <>
           <h2 className="text-3xl mb-4">Latest snippets</h2>
-          <ul>
+          <ul className="flex flex-col">
             {snippets?.map((snippet: any, index) => {
               const { slug, frontmatter } = snippet;
               const { title } = frontmatter;
               return (
-                <li key={index} className="pt-2 pb-2">
+                <li key={index} className="pt-2 pb-2 inline-flex">
                   <Link href={`snippets/${slug}`}>
-                    <a>
+                    <a className="text-white">
                       <span className="flex gap-2 items-center text-lg cursor-pointer">
                         {title} <Icon icon="arrow.svg" />
                       </span>

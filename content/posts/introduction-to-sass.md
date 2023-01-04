@@ -47,7 +47,7 @@ selectors and new lines rather then semicolons to separate properties.
 
 SASS syntax looks like this:
 
-```css
+```
 .container
   ul
     margin: 0

@@ -8,11 +8,14 @@ const Footer = () => {
       <nav>
         <ul className="flex gap-4">
           <li>
-            <Link href="mailto:victor@jimvid.com">Email</Link>
+            <Link href="mailto:victor@jimvid.com">
+              <a className="text-white">Email</a>
+            </Link>
           </li>
           <li>
             <a
               href="https://www.linkedin.com/in/victor-jimvid-11a375163/"
+              className="text-white"
               rel="noreferrer"
               target="_blank"
             >
@@ -22,6 +25,7 @@ const Footer = () => {
           <li>
             <a
               href="https://github.com/Jimvid/"
+              className="text-white"
               rel="noreferrer"
               target="_blank"
             >

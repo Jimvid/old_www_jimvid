@@ -70,11 +70,3 @@
 .hljs-selector-class {
   color: #a7f297;
 }
-
-a {
-  color: #7761ff;
-}
-
-a:hover {
-  text-decoration: underline;
-}
